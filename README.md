@@ -18,6 +18,7 @@ Hi, I'm Alex.
 |     3| HTML      |
 |     4| REACT     |
 |     5| CSS       |
+|     6| PHP       |  
 
 </details>
 
